@@ -45,7 +45,7 @@ class Result {
 
 }
 
-public class Solution {
+public class Day1 {
     public static void main(String[] args) throws IOException {
 
         Scanner input = new Scanner(System.in);
